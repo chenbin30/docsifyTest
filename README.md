@@ -6,4 +6,4 @@
 
 > hello word yes no
 
-![](img\111.png)
+![](./img/111.png)
