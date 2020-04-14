@@ -6,3 +6,4 @@
 
 > hello word yes no
 
+![](D:\soft\git\docsifyTest\img\111.png)
